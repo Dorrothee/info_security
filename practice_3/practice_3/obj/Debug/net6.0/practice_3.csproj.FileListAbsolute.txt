@@ -1,0 +1,15 @@
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\practice_3.exe
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\practice_3.deps.json
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\practice_3.runtimeconfig.json
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\practice_3.dll
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\ref\practice_3.dll
+C:\info_security\practice_3\practice_3\bin\Debug\net6.0\practice_3.pdb
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.csproj.AssemblyReference.cache
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.AssemblyInfoInputs.cache
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.AssemblyInfo.cs
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.csproj.CoreCompileInputs.cache
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.dll
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\ref\practice_3.dll
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.pdb
+C:\info_security\practice_3\practice_3\obj\Debug\net6.0\practice_3.genruntimeconfig.cache
