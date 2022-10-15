@@ -1,0 +1,15 @@
+C:\info_security\practice2\practice2\bin\Debug\net6.0\practice2.exe
+C:\info_security\practice2\practice2\bin\Debug\net6.0\practice2.deps.json
+C:\info_security\practice2\practice2\bin\Debug\net6.0\practice2.runtimeconfig.json
+C:\info_security\practice2\practice2\bin\Debug\net6.0\practice2.dll
+C:\info_security\practice2\practice2\bin\Debug\net6.0\ref\practice2.dll
+C:\info_security\practice2\practice2\bin\Debug\net6.0\practice2.pdb
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.csproj.AssemblyReference.cache
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.AssemblyInfoInputs.cache
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.AssemblyInfo.cs
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.csproj.CoreCompileInputs.cache
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.dll
+C:\info_security\practice2\practice2\obj\Debug\net6.0\ref\practice2.dll
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.pdb
+C:\info_security\practice2\practice2\obj\Debug\net6.0\practice2.genruntimeconfig.cache
