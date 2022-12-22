@@ -1,0 +1,15 @@
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.csproj.AssemblyReference.cache
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.AssemblyInfoInputs.cache
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.AssemblyInfo.cs
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.csproj.CoreCompileInputs.cache
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\practice_11-12.exe
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\practice_11-12.deps.json
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\practice_11-12.runtimeconfig.json
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\practice_11-12.dll
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\ref\practice_11-12.dll
+C:\info_security\practice_11-12\practice_11-12\bin\Debug\net6.0\practice_11-12.pdb
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.dll
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\ref\practice_11-12.dll
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.pdb
+C:\info_security\practice_11-12\practice_11-12\obj\Debug\net6.0\practice_11-12.genruntimeconfig.cache
