@@ -1,0 +1,148 @@
+2022-12-20 12:29:49.2689|Warn|Authorization+Protector|Login "daryna" Password "789" |login=daryna, password=789 
+2022-12-20 12:51:06.7118|Warn|Authorization+Protector|Login "daryna" Password "789" |login=daryna, password=789 | |
+2022-12-20 12:57:15.9566|Error|Authorization+Role|System.Security.SecurityException: User must be a member of Admins to access this feature. | | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 230
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 277
+2022-12-20 12:58:05.1441|Error|Authorization+Role|System.Security.SecurityException: User must be a member of Admins to access this feature. | | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 230
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 277
+2022-12-20 12:59:08.8187|Error|Authorization+Role|User must be a member of Admins to access this feature. | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 230
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 277
+2022-12-20 12:59:35.5674|Error|Authorization+Role|User must be a member of Admins to access this feature. | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 230
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 277
+2022-12-20 13:00:07.5633|Error|Authorization+Role|System.Security.SecurityException: User must be a member of Admins to access this feature. | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 230
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 277
+2022-12-20 13:02:20.0687|Fatal|Authorization+Role|Entered unknown command | |
+2022-12-20 13:05:21.0968|Fatal|Authorization|nfr | |
+2022-12-20 13:17:00.3300|Error|Authorization+Role|User must be a member of Admins to access this feature. | |System.Security.SecurityException: User must be a member of Admins to access this feature.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 238
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 285
+2022-12-20 13:17:00.3593|Fatal|Authorization+Role|Entered unknown command | |
+2022-12-20 13:17:00.3593|Fatal|Authorization|yes | |
+2022-12-20 14:02:36.5358|Fatal|Authorization+Hashing|Password is null | |
+2022-12-20 14:09:28.6732|Fatal|Authorization+Hashing|Password is null | |
+2022-12-20 14:21:54.4854|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:21:54.4854|Fatal|Authorization|yes | |
+2022-12-20 14:22:38.8602|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:22:38.8602|Fatal|Authorization|yes | |
+2022-12-20 14:24:28.9964|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:24:29.0036|Fatal|Authorization|yes | |
+2022-12-20 14:31:44.0231|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:31:44.0329|Fatal|Authorization|yes | |
+2022-12-20 14:32:47.3969|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:32:47.3969|Fatal|Authorization|yes | |
+2022-12-20 14:34:27.6691|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:34:27.6786|Fatal|Authorization|yes | |
+2022-12-20 14:34:32.7430|Fatal|Authorization| | |
+2022-12-20 14:35:09.5649|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:35:09.5649|Fatal|Authorization|yes | |
+2022-12-20 14:35:14.1995|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:35:14.1995|Fatal|Authorization|yes | |
+2022-12-20 14:35:20.6317|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:35:20.6317|Fatal|Authorization|yes | |
+2022-12-20 14:36:40.7392|Fatal|Authorization|Entered wrong role | |
+2022-12-20 14:36:40.7392|Fatal|Authorization|yes | |
+2022-12-20 14:37:02.8135|Warn|Authorization|Entered wrong role | |
+2022-12-20 14:37:02.8135|Fatal|Authorization|yes | |
+2022-12-20 14:37:56.1676|Fatal|Authorization|yes | |
+2022-12-20 14:37:59.8343|Fatal|Authorization| | |
+2022-12-20 14:38:01.0803|Fatal|Authorization| | |
+2022-12-20 14:39:06.0321|Fatal|Authorization|ok | |
+2022-12-20 14:40:55.5950|Fatal|Authorization+Role|Entered unknown command | |
+2022-12-20 14:40:55.5950|Fatal|Authorization|yes | |
+2022-12-20 14:43:00.1951|Fatal|Authorization|yes | |
+2022-12-20 14:50:46.8014|Error|Authorization+Protector|Login "daryna" Password "1323" |login=daryna, password=1323 |
+2022-12-20 14:50:55.6283|Error|Authorization+Role|Thread.CurrentPrincipal cannot be null. | |System.Security.SecurityException: Thread.CurrentPrincipal cannot be null.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 245
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 296
+2022-12-20 14:50:55.6736|Fatal|Authorization|yes | |
+2022-12-20 14:51:59.0686|Fatal|Authorization|yes | |
+2022-12-20 15:00:31.2348|Fatal|Authorization|yes | |
+2022-12-20 15:03:10.3296|Fatal|Authorization|yes | |
+2022-12-20 15:13:35.9097|Fatal|Authorization|yes | |
+2022-12-20 15:13:36.0548|Fatal|Authorization| | |
+2022-12-20 15:15:07.2345|Fatal|Authorization|yes | |
+2022-12-20 15:16:42.3036|Fatal|Authorization|yes | |
+2022-12-20 15:18:21.2533|Fatal|Authorization|yes | |
+2022-12-20 15:21:07.0558|Fatal|Authorization|yes | |
+2022-12-20 15:28:23.1441|Fatal|Authorization|yes | |
+2022-12-20 15:38:47.3983|Fatal|Authorization|yes | |
+2022-12-20 15:40:26.5497|Error|Authorization+Role|User must be a member of Admins to access this feature. | |
+2022-12-20 15:40:26.5688|Fatal|Authorization|yes | |
+2022-12-20 15:44:31.5783|Error|Authorization+Protector|Login "daryna" Password "789" |login=daryna, password=789 |
+2022-12-20 15:51:51.2829|Error|Authorization+Role|User must be a member of IT Technicians to access this feature. | |
+2022-12-20 15:51:51.3073|Fatal|Authorization|yes | |
+2022-12-20 15:53:16.0016|Error|Authorization+Role|User must be a member of IT Technicians to access this feature. | |
+2022-12-20 15:53:16.0189|Fatal|Authorization|yes | |
+2022-12-20 15:54:07.6021|Error|Authorization+Role|User must be a member of IT Technicians to access this feature. | |
+2022-12-20 15:54:38.4929|Error|Authorization+Role|User must be a member of IT Technicians to access this feature. | |
+2022-12-20 15:54:38.5093|Fatal|Authorization|yes | |
+2022-12-20 15:55:01.0943|Warn|Authorization+Protector|Login "daryna" Password "789" |login=daryna, password=789 |
+2022-12-20 15:55:43.0535|Fatal|Authorization|yes | |
+2022-12-20 15:56:09.9238|Fatal|Authorization|yes | |
+2022-12-20 16:05:37.5482|Fatal|Authorization|yes | |
+2022-12-20 16:20:55.9607|Fatal|Authorization|Entered wrong role "security" |wrole=security |
+2022-12-20 16:20:55.9824|Fatal|Authorization|yes | |
+2022-12-20 16:22:05.1400|Fatal|Authorization|yes | |
+2022-12-20 16:22:51.6027|Fatal|Authorization|yes | |
+2022-12-20 16:44:03.8913|Error|Authorization+Protector|Login "daryna" Password "adm" |login=daryna, password=adm |
+2022-12-20 16:45:21.9920|Fatal|Authorization|yes | |
+2022-12-20 16:48:03.1875|Fatal|Authorization|yes | |
+2022-12-20 16:50:55.0725|Fatal|Authorization|yes | |
+2022-12-20 16:51:18.7659|Error|Authorization+Role|User must be a member of Safety Managers to access this feature. | |
+2022-12-20 16:51:18.7659|Fatal|Authorization|yes | |
+2022-12-20 21:52:26.7545|Fatal|Authorization|yes | |
+2022-12-20 22:11:44.5048|Fatal|Authorization|yes | |
+2022-12-20 22:48:09.1245|Fatal|Authorization|Entered wrong role "daryna" |wrole=daryna |
+2022-12-20 22:48:09.1482|Fatal|Authorization|yes | |
+2022-12-20 22:55:44.9143|Fatal|Authorization|yes | |
+2022-12-20 22:56:39.8750|Fatal|Authorization|yes | |
+2022-12-20 22:58:13.5970|Fatal|Authorization|yes | |
+2022-12-20 22:59:12.0093|Fatal|Authorization|yes | |
+2022-12-20 23:02:23.5682|Fatal|Authorization|yes | |
+2022-12-20 23:03:58.4537|Fatal|Authorization|yes | |
+2022-12-20 23:11:37.5074|Fatal|Authorization|yes | |
+2022-12-20 23:23:56.0170|Fatal|Authorization|yes | |
+2022-12-20 23:28:00.5195|Fatal|Authorization|yes | |
+2022-12-20 23:32:56.1544|Fatal|Authorization|yes | |
+2022-12-20 23:38:04.5449|Fatal|Authorization|yes | |
+2022-12-20 23:39:58.8089|Fatal|Authorization|yes | |
+2022-12-20 23:41:53.0082|Fatal|Authorization|yes | |
+2022-12-20 23:42:58.9895|Fatal|Authorization|yes | |
+2022-12-20 23:43:55.6262|Fatal|Authorization|yes | |
+2022-12-20 23:48:01.5555|Fatal|Authorization|yes | |
+2022-12-20 23:49:54.4512|Fatal|Authorization|yes | |
+2022-12-20 23:50:29.5130|Fatal|Authorization|yes | |
+2022-12-20 23:54:46.2087|Fatal|Authorization|yes | |
+2022-12-20 23:56:00.1127|Fatal|Authorization|yes | |
+2022-12-20 23:57:24.5668|Fatal|Authorization|yes | |
+2022-12-20 23:57:52.5698|Fatal|Authorization|yes | |
+2022-12-20 23:58:49.6136|Fatal|Authorization|yes | |
+2022-12-21 00:00:46.0775|Fatal|Authorization|yes | |
+2022-12-21 00:01:10.1483|Fatal|Authorization|yes | |
+2022-12-21 00:02:23.0869|Error|Authorization+Protector|Login "daryna" Password "123" |login=daryna, password=123 |
+2022-12-21 00:02:24.7922|Error|Authorization+Role|Thread.CurrentPrincipal cannot be null. | |
+2022-12-21 00:02:51.6063|Error|Authorization+Role|Object reference not set to an instance of an object. | |System.NullReferenceException: Object reference not set to an instance of an object.
+   at Authorization.Role.OnlyForAdmins() in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 264
+   at Authorization.Role.Check(Int32 opt) in C:\info_security\practice_13-14\practice_13-14\Program.cs:line 325
+2022-12-21 00:02:51.6607|Fatal|Authorization|yes | |
+2022-12-21 00:03:13.1133|Fatal|Authorization|yes | |
+2022-12-21 00:06:38.9194|Fatal|Authorization|yes | |
+2022-12-21 00:09:05.4544|Fatal|Authorization|yes | |
+2022-12-21 00:09:20.7116|Fatal|Authorization|yes | |
+2022-12-21 00:12:14.8669|Fatal|Authorization|yes | |
+2022-12-21 00:22:18.3557|Fatal|Authorization|yes | |
+2022-12-21 00:23:30.5730|Fatal|Authorization|yes | |
+2022-12-21 00:26:41.9579|Fatal|Authorization|yes | |
+2022-12-21 00:27:37.2912|Fatal|Authorization|yes | |
+2022-12-21 00:28:03.3638|Error|Authorization+Role|User must be a member of Admins to access this feature. | |
+2022-12-21 00:28:03.3638|Fatal|Authorization|yes | |
+2022-12-21 00:37:05.6818|Fatal|Authorization|yes | |
+2022-12-21 00:39:09.2330|Fatal|Authorization|es | |
+2022-12-21 00:40:17.2959|Fatal|Authorization|Wrong input "es" |input=es |
+2022-12-21 00:45:21.0042|Fatal|Authorization|Wrong input "yes" |input=yes |
+2022-12-21 00:46:21.1641|Fatal|Authorization|Wrong input "yes" |input=yes |
+2022-12-21 00:47:09.5568|Fatal|Authorization|Wrong input "yes" |input=yes |

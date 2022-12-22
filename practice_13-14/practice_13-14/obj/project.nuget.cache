@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/omZrmXFblsUqsmwW5nryeeqV1SW7iP5J/lj0XZav8GPfLJMiho2HQydYERRlLTVurlv7jyxZ6jxJRdyoTMExA==",
+  "success": true,
+  "projectFilePath": "C:\\info_security\\practice_13-14\\practice_13-14\\practice_13-14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daryn\\.nuget\\packages\\nlog\\5.1.0\\nlog.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
